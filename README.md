@@ -10,7 +10,7 @@ From a data standpoint, 3 issues were faced:
 
 Conclusion: “The deep gap between US Coast cities counter drove us to find a better comparative indicator, based on percentages. 'Percentage of Cities with UK names over Total Cities by Coast' returns 8,6% for East Coast and 4,9% for West Coast, so even though there is a difference, it is insignificant, so we could say the starting hypothesis must be rejected”.
 
-To access Data Viz (please display in full screen): https://public.tableau.com/app/profile/julian.horvath/viz/UScitieswithUKnamesbyCoast/UKnamesinUScities?publish=yes
+To access Data Viz (please display in full screen): https://public.tableau.com/views/UScitieswithUKnamesbyCoast/UKnamesinUScities?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 
 ---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ----
 
