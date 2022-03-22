@@ -1,6 +1,6 @@
 # UK-names-in-America-s-cities
 
-Data Analytics challenge resolved. We started from the following aseveration: “Because the United Kingdom (UK) was the main country to colonize the United States of America (USA), and UK is on the east side of USA, there are more cities/towns with UK names alongside USA´s East Coast than West Coast”. 
+Data Analytics challenge resolved. We started from the following statement: “Because the United Kingdom (UK) was the main country to colonize the United States of America (USA), and UK is on the east side of USA, there are more cities/towns with UK names alongside USA´s East Coast than West Coast”. 
 
 From a data standpoint, 3 issues were faced:
 
@@ -24,4 +24,4 @@ Desde una perspectiva de los datos, 3 problemas emergieron durante el análisis:
 
 Conclusión: “Teniendo en cuenta la enorme disparidad en la cantidad de ciudades de cada costa, la comparación pertinente debe realizarse en porcentajes. El indicador 'Porcentaje de Ciudades con nombres del Reino Unido sobre el Total de Ciudades de cada Costa' arroja 8,6 % para la Costa Este y 4,9 % para la Costa Oeste, con lo cual si bien existe una diferencia, es mínima, y la hipótesis inicial debe ser rechazada”.
 
-Para acceder a una visualización interactiva de los datos (por favor, ver en modo pantalla completa: https://public.tableau.com/app/profile/julian.horvath/viz/UScitieswithUKnamesbyCoast/UKnamesinUScities?publish=yes 
+Para acceder a una visualización interactiva de los datos (por favor, ver en modo pantalla completa): https://public.tableau.com/app/profile/julian.horvath/viz/UScitieswithUKnamesbyCoast/UKnamesinUScities?publish=yes 
