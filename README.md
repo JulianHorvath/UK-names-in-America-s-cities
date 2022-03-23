@@ -10,7 +10,7 @@ From a data standpoint, 3 issues were faced:
 
 Conclusion: “The deep gap between US Coast cities counter drove us to find a better comparative indicator, based on percentages. 'Percentage of Cities with UK names over Total Cities by Coast' returns 8,6% for East Coast and 4,9% for West Coast, so even though there is a difference, it is insignificant, so we could say the starting hypothesis must be rejected”.
 
-To access Data Viz (please display in full screen): https://public.tableau.com/app/profile/julian.horvath/viz/UScitieswithUKnamesbyCoast/UKnamesinUScities?publish=yes
+Click [here](https://public.tableau.com/app/profile/julian.horvath/viz/UScitieswithUKnamesbyCoast/UKnamesinUScities?publish=yes) to access interactive Data Viz (please display in full screen).
 
 ![Image text](https://github.com/JulianHorvath/UK-names-in-America-s-cities/blob/main/Dashboard.png)
 
@@ -26,4 +26,4 @@ Desde una perspectiva de los datos, 3 problemas emergieron durante el análisis:
 
 Conclusión: “Teniendo en cuenta la enorme disparidad en la cantidad de ciudades de cada costa, la comparación pertinente debe realizarse en porcentajes. El indicador 'Porcentaje de Ciudades con nombres del Reino Unido sobre el Total de Ciudades de cada Costa' arroja 8,6 % para la Costa Este y 4,9 % para la Costa Oeste, con lo cual si bien existe una diferencia, es mínima, y la hipótesis inicial debe ser rechazada”.
 
-Para acceder a una visualización interactiva de los datos (por favor, ver en modo pantalla completa): https://public.tableau.com/app/profile/julian.horvath/viz/UScitieswithUKnamesbyCoast/UKnamesinUScities?publish=yes 
+Click [aquí](https://public.tableau.com/app/profile/julian.horvath/viz/UScitieswithUKnamesbyCoast/UKnamesinUScities?publish=yes) para acceder a una visualización interactiva de los datos (por favor, ver en modo pantalla completa).
